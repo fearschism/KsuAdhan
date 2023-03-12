@@ -2,6 +2,15 @@
 
 **SWE 483 final Project**
 
+## **MAKE SURE TO RUN:** <br>
+to run the application first run this: <br>
+
+<code>flutter pub get</code> <br>
+
+and then run this: <br>
+
+<code>flutter run</code> <- assuming that you have an Android Emulator
+
 ## REQ:
 - [x]  Notifiy the user when Adhan is due.
 - [x]  Silences user's device for 10 min after IQAMA time.
