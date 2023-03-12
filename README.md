@@ -3,7 +3,7 @@
 **SWE 483 final Project by SAAD ALAGEEL** 
 
 
-[![Button Icon]](https://www.google.com)
+[![Button Icon]](https://github.com/fearschism/KsuAdhan/releases/download/Final/ksu_adhan.zip)
 
 
 ## **MAKE SURE TO RUN:** <br>
@@ -27,6 +27,6 @@ and then run this: <br>
 
 <!---------------------------------------------------------------------------->
 
-[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[Button Icon]: https://img.shields.io/badge/download-light?style=for-the-badge&logoColor=black&logo=DocuSign
 
 
