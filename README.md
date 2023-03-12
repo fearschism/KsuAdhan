@@ -1,6 +1,6 @@
 # KsuAdhan
 
-**SWE 483 final Project**
+**SWE 483 final Project by SAAD ALAGEEL**
 
 ## **MAKE SURE TO RUN:** <br>
 to run the application first run this: <br>
